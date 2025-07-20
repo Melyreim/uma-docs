@@ -3,7 +3,7 @@
 ---
 
 # Beginner's Support Guide URA＆Aoharu
-![](https://www.youtube.com/watch?v=QhYWu6ncLHM)
+<iframe src="https://www.youtube.com/embed/QhYWu6ncLHM" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 Hi! I made this video to practice my English. My wording or pronunciation might be wrong sometimes – please bear with me!
 
 ## **First: Why Wit (Intelligence) is CRUCIAL**
