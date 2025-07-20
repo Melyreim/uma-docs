@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/umamusume-global/youtube-seriru-channel/beginner-s-support-guide-ura-aoharu/","created":"2025-07-20T21:47:08.236+07:00","updated":"2025-07-21T00:41:41.236+07:00"}
+{"dg-publish":true,"permalink":"/umamusume-global/youtube-seriru-channel/beginner-s-support-guide-ura-aoharu/","created":"2025-07-20T21:47:08.236+07:00","updated":"2025-07-21T01:05:03.664+07:00"}
 ---
 
 # Beginner's Support Guide URA＆Aoharu
@@ -21,7 +21,7 @@ Hi! I made this video to practice my English. My wording or pronunciation might 
 1. **Daiwa Scarlet (スカーレット): MY PICK**
     - Even at low levels, she has a high SSR ("Rainbow") appearance rate. If you have her, use her.
 2. **Fine Motion (ファインモーション): Popularity King**
-    - #1 in popularity and great for status growth. However, she has no innate Rainbow effect. Ignore the meme "This is the only wit you need" – that's not her actual perfomance.
+    - Number 1 in popularity and great for status growth. However, she has no innate Rainbow effect. Ignore the meme "This is the only wit you need" – that's not her actual perfomance.
     - **Crucial:** You MUST have her at Level 45 or above. Look for Level 50 Friend supports to rent. At lower levels (like SR), her performance isn't great.
 3. **Sweep Tosho (スイープトウショウ): The Best SR**
     - The top-tier SR card for earning SP and getting more skills. For SR cards, Sweep Tosho is the only one truly worth using "for the time being".
