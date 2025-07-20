@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"dg-path":"Umamusume Global Docs.md","permalink":"/umamusume-global-docs/","pinned":true,"tags":["gardenEntry"],"created":"2025-06-28T00:33:41.001+07:00","updated":"2025-07-21T02:15:27.811+07:00"}
+{"dg-publish":true,"dg-path":"Umamusume Global Docs.md","permalink":"/umamusume-global-docs/","pinned":true,"tags":["gardenEntry"],"created":"2025-06-28T00:33:41.001+07:00","updated":"2025-07-21T02:24:50.421+07:00"}
 ---
 
 
-- [[Umamusume Global Docs/00_Quant's uma global week 1 training for dummies\|00_Quant's uma global week 1 training for dummies]]
 - **00_RefDocs**
 	- [[Umamusume Global Docs/00_RefDocs/00_Should I Pull this Support Banner? (Kitasan Black)\|00_Should I Pull this Support Banner? (Kitasan Black)]]
 	- [[Umamusume Global Docs/00_RefDocs/01_Uma Musume Reviews\|01_Uma Musume Reviews]]
 	- [[Umamusume Global Docs/00_RefDocs/02_Uma Distances or Styles\|02_Uma Distances or Styles]]
 - **Discord_EarlyFAQ**
+	- [[Umamusume Global Docs/Discord_EarlyFAQ/00_Quant's uma global week 1 training for dummies\|00_Quant's uma global week 1 training for dummies]]
 	- [[Umamusume Global Docs/Discord_EarlyFAQ/Common training questions FAQ (Valid for first month)\|Common training questions FAQ (Valid for first month)]]
 	- [[Umamusume Global Docs/Discord_EarlyFAQ/Frequently asked day 1 questions\|Frequently asked day 1 questions]]
 	- [[Umamusume Global Docs/Discord_EarlyFAQ/Intermediate training tips or ideas to get you started\|Intermediate training tips or ideas to get you started]]
