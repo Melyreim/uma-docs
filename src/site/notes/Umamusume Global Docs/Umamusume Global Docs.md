@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Umamusume Global Docs.md","permalink":"/umamusume-global-docs/","pinned":true,"tags":["gardenEntry"],"created":"2025-06-28T00:33:41.001+07:00","updated":"2025-07-21T02:24:50.421+07:00"}
+{"dg-publish":true,"dg-path":"Umamusume Global Docs.md","permalink":"/umamusume-global-docs/","pinned":true,"tags":["gardenEntry"],"created":"2025-06-28T00:33:41.001+07:00","updated":"2025-07-21T02:48:30.547+07:00"}
 ---
 
 
