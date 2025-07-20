@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"Youtube_SeriruChannel/Beginner's Support Guide URA＆Aoharu.md","permalink":"/youtube-seriru-channel/beginner-s-support-guide-ura-aoharu/","created":"2025-07-20T21:47:08.236+07:00","updated":"2025-07-21T03:55:38.081+07:00"}
+{"dg-publish":true,"dg-path":"Youtube_SeriruChannel/Beginner's Support Guide URA＆Aoharu.md","permalink":"/youtube-seriru-channel/beginner-s-support-guide-ura-aoharu/","created":"2025-07-20T21:47:08.236+07:00","updated":"2025-07-21T03:57:19.180+07:00"}
 ---
 
 # Beginner's Support Guide URA＆Aoharu
 <iframe src="https://www.youtube.com/embed/QhYWu6ncLHM" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-> [!WARNING] Warning!
+
+
+> [!WARNING]
 > I'm using DeepSeek to transcribe this video
 
 Hi! I made this video to practice my English. My wording or pronunciation might be wrong sometimes – please bear with me!
