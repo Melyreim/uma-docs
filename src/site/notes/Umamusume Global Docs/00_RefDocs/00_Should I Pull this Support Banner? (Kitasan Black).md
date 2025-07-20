@@ -1,40 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Umamusume Global Docs.md","permalink":"/umamusume-global-docs/","pinned":true,"tags":["gardenEntry"],"created":"2025-06-28T00:33:41.001+07:00","updated":"2025-07-21T02:15:27.811+07:00"}
+{"dg-publish":true,"dg-path":"00_RefDocs/00_Should I Pull this Support Banner? (Kitasan Black).md","permalink":"/00-ref-docs/00-should-i-pull-this-support-banner-kitasan-black/","created":"2025-07-21T02:03:27.479+07:00","updated":"2025-07-21T02:16:07.217+07:00"}
 ---
-
-
-- [[Umamusume Global Docs/00_Quant's uma global week 1 training for dummies\|00_Quant's uma global week 1 training for dummies]]
-- **00_RefDocs**
-	- [[Umamusume Global Docs/00_RefDocs/00_Should I Pull this Support Banner? (Kitasan Black)\|00_Should I Pull this Support Banner? (Kitasan Black)]]
-	- [[Umamusume Global Docs/00_RefDocs/01_Uma Musume Reviews\|01_Uma Musume Reviews]]
-	- [[Umamusume Global Docs/00_RefDocs/02_Uma Distances or Styles\|02_Uma Distances or Styles]]
-- **Discord_EarlyFAQ**
-	- [[Umamusume Global Docs/Discord_EarlyFAQ/Common training questions FAQ (Valid for first month)\|Common training questions FAQ (Valid for first month)]]
-	- [[Umamusume Global Docs/Discord_EarlyFAQ/Frequently asked day 1 questions\|Frequently asked day 1 questions]]
-	- [[Umamusume Global Docs/Discord_EarlyFAQ/Intermediate training tips or ideas to get you started\|Intermediate training tips or ideas to get you started]]
-	- [[Umamusume Global Docs/Discord_EarlyFAQ/Quant's week 1 skills guide for uma\|Quant's week 1 skills guide for uma]]
-- **Discord_TrainingReq**
-	- [[Umamusume Global Docs/Discord_TrainingReq/Estimated threshold for stamina requirement\|Estimated threshold for stamina requirement]]
-	- [[Umamusume Global Docs/Discord_TrainingReq/Statline target when doing training\|Statline target when doing training]]
-- **Youtube_SeriruChannel**
-	- [[Umamusume Global Docs/Youtube_SeriruChannel/Beginner's Support Guide URA＆Aoharu\|Beginner's Support Guide URA＆Aoharu]]
-
-
-
-This website is mostly mirror from [(Unofficial) Umamusume: Pretty Derby Discord](https://discord.gg/umamusume) and [reference docs](https://docs.google.com/document/d/11X2P7pLuh-k9E7PhRiD20nDX22rNWtCpC1S4IMx_8pQ)
-
-> [!TIP] Useful Links
-> [GameTora Training Event Helper](https://gametora.com/umamusume/training-event-helper)
-> [Umamusume Friend DB](https://uma-global.pure-db.com/#/search)
-> [Umamusume Support Cards Tier List](https://euophrys.github.io/uma-tiers/#/global)
-> [Umamusume Skills Spreadsheet](https://docs.google.com/spreadsheets/u/0/d/1oB3eTvKqREtJDWJL0q80O_VjBcpOmRl5xE0z5fZKgFY/htmlview) 
-> [hrons' guide to umamusume](https://docs.google.com/document/d/1Zt6J-ktC9UFFPjD3ifc_-fmjzx1TAsXzlR9vVGCR5Jg)
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/umamusume-global-docs/00-ref-docs/00-should-i-pull-this-support-banner-kitasan-black/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
 
 # Should I Pull this Support Banner? (Kitasan Black)
 
@@ -79,5 +45,3 @@ Red Teio is a little better than OG Oguri, but has nothing to make her exception
 Feel free to translate or share parts of the document or the entire thing, as long as you don’t do it commercially and you link to this document with a note, such as “Translated from…” or “From…” Consider it [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/). 
 
 If you’d like to support Erzzy, you can do so here: [https://ko-fi.com/erzzy](https://ko-fi.com/erzzy) Or, if you have extra TP and borrows, follow 876200788965 and use the uma/card to donate some FP / Club Points. Even if you instantly quit the run, they’ll be sent.
-
-</div></div>
