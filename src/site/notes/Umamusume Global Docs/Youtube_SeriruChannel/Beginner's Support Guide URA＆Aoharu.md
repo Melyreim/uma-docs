@@ -1,9 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"Youtube_SeriruChannel/Beginner's Support Guide URA＆Aoharu.md","permalink":"/youtube-seriru-channel/beginner-s-support-guide-ura-aoharu/","created":"2025-07-20T21:47:08.236+07:00","updated":"2025-07-21T03:36:21.887+07:00"}
+{"dg-publish":true,"dg-path":"Youtube_SeriruChannel/Beginner's Support Guide URA＆Aoharu.md","permalink":"/youtube-seriru-channel/beginner-s-support-guide-ura-aoharu/","created":"2025-07-20T21:47:08.236+07:00","updated":"2025-07-21T03:46:19.759+07:00"}
 ---
 
 # Beginner's Support Guide URA＆Aoharu
 <iframe src="https://www.youtube.com/embed/QhYWu6ncLHM" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+> [!caution]
+> I'm using DeepSeek to transcribe
+
 Hi! I made this video to practice my English. My wording or pronunciation might be wrong sometimes – please bear with me!
 
 ## **First: Why Wit (Intelligence) is CRUCIAL**
@@ -71,6 +74,7 @@ Hi! I made this video to practice my English. My wording or pronunciation might 
 - **Scout Wisely:** **When the Kitasan Black banner comes, do the 200 consecutive draws (spark/pity system) to guarantee getting her!**
 
 ---
+# Support Cards Tier List
 ![](https://i.postimg.cc/05KxM5J5/Beginner-s-Support-Guide-URA-Aohal-Umamusume-Pretty-Derby-edit-28-9h-Qh-YWu6nc-LHM-0002.jpg)
 ![](https://i.postimg.cc/PrGHmGmW/Beginner-s-Support-Guide-URA-Aohal-Umamusume-Pretty-Derby-edit-28-9h-Qh-YWu6nc-LHM-0003.jpg)
 ![](https://i.postimg.cc/65dXcH0D/Beginner-s-Support-Guide-URA-Aohal-Umamusume-Pretty-Derby-edit-28-9h-Qh-YWu6nc-LHM-0004.jpg)
@@ -83,6 +87,7 @@ Hi! I made this video to practice my English. My wording or pronunciation might 
 ![](https://i.postimg.cc/NMTJtn5t/Beginner-s-Support-Guide-URA-Aohal-Umamusume-Pretty-Derby-edit-28-9h-Qh-YWu6nc-LHM-0011.jpg)
 ![](https://i.postimg.cc/MpFdQwBx/Beginner-s-Support-Guide-URA-Aohal-Umamusume-Pretty-Derby-edit-28-9h-Qh-YWu6nc-LHM-0012.jpg)
 ![](https://i.postimg.cc/Qt9LTSCY/Beginner-s-Support-Guide-URA-Aohal-Umamusume-Pretty-Derby-edit-28-9h-Qh-YWu6nc-LHM-0013.jpg)
+Otherwise B+
 ![](https://i.postimg.cc/G2ZWJYsL/Beginner-s-Support-Guide-URA-Aohal-Umamusume-Pretty-Derby-edit-28-9h-Qh-YWu6nc-LHM-0015.jpg)
 ![](https://i.postimg.cc/DwBRpRbY/Beginner-s-Support-Guide-URA-Aohal-Umamusume-Pretty-Derby-edit-28-9h-Qh-YWu6nc-LHM-0016.jpg)
 ![](https://i.postimg.cc/wMpWjkmm/Beginner-s-Support-Guide-URA-Aohal-Umamusume-Pretty-Derby-edit-28-9h-Qh-YWu6nc-LHM-0017.jpg)
