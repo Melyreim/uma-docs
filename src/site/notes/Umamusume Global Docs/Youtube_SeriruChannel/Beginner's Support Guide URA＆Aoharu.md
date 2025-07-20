@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Youtube_SeriruChannel/Beginner's Support Guide URA＆Aoharu.md","permalink":"/youtube-seriru-channel/beginner-s-support-guide-ura-aoharu/","created":"2025-07-20T21:47:08.236+07:00","updated":"2025-07-21T03:57:19.180+07:00"}
+{"dg-publish":true,"dg-path":"Youtube_SeriruChannel/Beginner's Support Guide URA＆Aoharu.md","permalink":"/youtube-seriru-channel/beginner-s-support-guide-ura-aoharu/","created":"2025-07-20T21:47:08.236+07:00","updated":"2025-07-21T04:47:00.810+07:00"}
 ---
 
 # Beginner's Support Guide URA＆Aoharu
@@ -77,6 +77,7 @@ Hi! I made this video to practice my English. My wording or pronunciation might 
 
 ---
 # Support Cards Tier List
+## Wit
 ![](https://i.postimg.cc/05KxM5J5/Beginner-s-Support-Guide-URA-Aohal-Umamusume-Pretty-Derby-edit-28-9h-Qh-YWu6nc-LHM-0002.jpg)
 ![](https://i.postimg.cc/PrGHmGmW/Beginner-s-Support-Guide-URA-Aohal-Umamusume-Pretty-Derby-edit-28-9h-Qh-YWu6nc-LHM-0003.jpg)
 ![](https://i.postimg.cc/65dXcH0D/Beginner-s-Support-Guide-URA-Aohal-Umamusume-Pretty-Derby-edit-28-9h-Qh-YWu6nc-LHM-0004.jpg)
@@ -104,6 +105,7 @@ Otherwise B+
 ![](https://i.postimg.cc/28fp1QDT/Beginner-s-Support-Guide-URA-Aohal-Umamusume-Pretty-Derby-edit-28-9h-Qh-YWu6nc-LHM-0028.jpg)
 ![](https://i.postimg.cc/FsbM3YFv/Beginner-s-Support-Guide-URA-Aohal-Umamusume-Pretty-Derby-edit-28-9h-Qh-YWu6nc-LHM-0029.jpg)
 ![](https://i.postimg.cc/8CY9NW4R/Beginner-s-Support-Guide-URA-Aohal-Umamusume-Pretty-Derby-edit-28-9h-Qh-YWu6nc-LHM-0030.jpg)
+## Speed
 ![](https://i.postimg.cc/5NpPfLNX/Beginner-s-Support-Guide-URA-Aohal-Umamusume-Pretty-Derby-edit-28-9h-Qh-YWu6nc-LHM-0031.jpg)
 ![](https://i.postimg.cc/FHRTzz7D/Beginner-s-Support-Guide-URA-Aohal-Umamusume-Pretty-Derby-edit-28-9h-Qh-YWu6nc-LHM-0032.jpg)
 ![](https://i.postimg.cc/B6xgk1VQ/Beginner-s-Support-Guide-URA-Aohal-Umamusume-Pretty-Derby-edit-28-9h-Qh-YWu6nc-LHM-0033.jpg)
@@ -124,9 +126,16 @@ Otherwise B+
 ![](https://i.postimg.cc/Bvj7Yb3X/Beginner-s-Support-Guide-URA-Aohal-Umamusume-Pretty-Derby-edit-28-9h-Qh-YWu6nc-LHM-0049.jpg)
 ![](https://i.postimg.cc/gkMKCpNR/Beginner-s-Support-Guide-URA-Aohal-Umamusume-Pretty-Derby-edit-28-9h-Qh-YWu6nc-LHM-0050.jpg)
 ![](https://i.postimg.cc/2SVxmtKt/Beginner-s-Support-Guide-URA-Aohal-Umamusume-Pretty-Derby-edit-28-9h-Qh-YWu6nc-LHM-0051.jpg)
+## Get Unique Recovery for Stamina
 ![](https://i.postimg.cc/pTtQfLLN/Beginner-s-Support-Guide-URA-Aohal-Umamusume-Pretty-Derby-edit-28-9h-Qh-YWu6nc-LHM-0052.jpg)
+## When to Use Power Cards
 ![](https://i.postimg.cc/63LrYx88/Beginner-s-Support-Guide-URA-Aohal-Umamusume-Pretty-Derby-edit-28-9h-Qh-YWu6nc-LHM-0053.jpg)
 ![](https://i.postimg.cc/GtLkfgDq/Beginner-s-Support-Guide-URA-Aohal-Umamusume-Pretty-Derby-edit-28-9h-Qh-YWu6nc-LHM-0055.jpg)
+## Guts Haru Urara = Speed Kitasan Black
 ![](https://i.postimg.cc/3NtgQjC7/Beginner-s-Support-Guide-URA-Aohal-Umamusume-Pretty-Derby-edit-28-9h-Qh-YWu6nc-LHM-0056.jpg)
+
+---
+# Use These 3 to Farm Trophies 
 ![](https://i.postimg.cc/XNLK53Mh/Beginner-s-Support-Guide-URA-Aohal-Umamusume-Pretty-Derby-edit-28-9h-Qh-YWu6nc-LHM-0057.jpg)
+# Example Deck
 ![](https://i.postimg.cc/ncL4Y5pL/Beginner-s-Support-Guide-URA-Aohal-Umamusume-Pretty-Derby-edit-28-9h-Qh-YWu6nc-LHM-0058.jpg)
