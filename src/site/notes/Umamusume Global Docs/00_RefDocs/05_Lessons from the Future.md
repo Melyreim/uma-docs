@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"00_RefDocs/05_Lessons from the Future.md","permalink":"/00-ref-docs/05-lessons-from-the-future/","created":"2025-07-21T13:50:45.756+07:00","updated":"2025-07-21T16:48:05.587+07:00"}
+{"dg-publish":true,"dg-path":"00_RefDocs/05_Lessons from the Future.md","permalink":"/00-ref-docs/05-lessons-from-the-future/","created":"2025-07-21T13:50:45.756+07:00","updated":"2025-07-21T16:54:22.704+07:00"}
 ---
 
 # Lessons from the Future
@@ -270,5 +270,5 @@ Loves Only You: 2028-04-22
 Chrono Genesis: 2028-05-07
 
 > [!info] Navigation
-<p><span><a data-tooltip-position="top" aria-label="00_RefDocs/00_News" data-href="00_RefDocs/00_News" href="00_RefDocs/00_News" class="internal-link" target="_blank" rel="noopener nofollow">Index</a><br>
+<p><span><a data-tooltip-position="top" aria-label="Umamusume Global Docs/00_RefDocs/00_News" data-href="Umamusume Global Docs/00_RefDocs/00_News" href="Umamusume Global Docs/00_RefDocs/00_News" class="internal-link" target="_blank" rel="noopener nofollow">Index</a><br>
 <a data-tooltip-position="top" aria-label="Umamusume Global Docs/00_RefDocs/04_Tips for New Players.md" data-href="Umamusume Global Docs/00_RefDocs/04_Tips for New Players.md" href="Umamusume Global Docs/00_RefDocs/04_Tips for New Players.md" class="internal-link" target="_blank" rel="noopener nofollow">&lt;&lt; Previous</a> | <a data-tooltip-position="top" aria-label="Umamusume Global Docs/00_RefDocs/06_Gacha.md" data-href="Umamusume Global Docs/00_RefDocs/06_Gacha.md" href="Umamusume Global Docs/00_RefDocs/06_Gacha.md" class="internal-link" target="_blank" rel="noopener nofollow">Next &gt;&gt;</a></span></p>

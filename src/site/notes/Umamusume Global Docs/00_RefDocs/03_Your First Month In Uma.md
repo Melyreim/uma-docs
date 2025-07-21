@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"00_RefDocs/03_Your First Month In Uma.md","permalink":"/00-ref-docs/03-your-first-month-in-uma/","created":"2025-07-21T12:26:42.906+07:00","updated":"2025-07-21T16:47:50.947+07:00"}
+{"dg-publish":true,"dg-path":"00_RefDocs/03_Your First Month In Uma.md","permalink":"/00-ref-docs/03-your-first-month-in-uma/","created":"2025-07-21T12:26:42.906+07:00","updated":"2025-07-21T16:54:11.248+07:00"}
 ---
 
 # Your First Month In Uma
@@ -24,5 +24,5 @@ There’s a lot to do when you first start an account. Here’s a checklist, rou
 Prepare some umas for the [Champion’s Meeting](https://docs.google.com/document/d/11X2P7pLuh-k9E7PhRiD20nDX22rNWtCpC1S4IMx_8pQ/edit?tab=t.0#heading=h.n319dua1dy0z) or League of Heroes for the month once those start. Even if you lose, you’ll still get rewards, so it doesn’t hurt to participate.
 
 > [!info] Navigation
-<p><span><a data-tooltip-position="top" aria-label="00_RefDocs/00_News" data-href="00_RefDocs/00_News" href="00_RefDocs/00_News" class="internal-link" target="_blank" rel="noopener nofollow">Index</a><br>
+<p><span><a data-tooltip-position="top" aria-label="Umamusume Global Docs/00_RefDocs/00_News" data-href="Umamusume Global Docs/00_RefDocs/00_News" href="Umamusume Global Docs/00_RefDocs/00_News" class="internal-link" target="_blank" rel="noopener nofollow">Index</a><br>
 <a data-tooltip-position="top" aria-label="Umamusume Global Docs/00_RefDocs/02_Rerolling.md" data-href="Umamusume Global Docs/00_RefDocs/02_Rerolling.md" href="Umamusume Global Docs/00_RefDocs/02_Rerolling.md" class="internal-link" target="_blank" rel="noopener nofollow">&lt;&lt; Previous</a> | <a data-tooltip-position="top" aria-label="Umamusume Global Docs/00_RefDocs/04_Tips for New Players.md" data-href="Umamusume Global Docs/00_RefDocs/04_Tips for New Players.md" href="Umamusume Global Docs/00_RefDocs/04_Tips for New Players.md" class="internal-link" target="_blank" rel="noopener nofollow">Next &gt;&gt;</a></span></p>

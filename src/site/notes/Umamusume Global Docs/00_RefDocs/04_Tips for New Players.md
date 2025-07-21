@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"00_RefDocs/04_Tips for New Players.md","permalink":"/00-ref-docs/04-tips-for-new-players/","created":"2025-07-21T13:45:51.867+07:00","updated":"2025-07-21T16:47:56.205+07:00"}
+{"dg-publish":true,"dg-path":"00_RefDocs/04_Tips for New Players.md","permalink":"/00-ref-docs/04-tips-for-new-players/","created":"2025-07-21T13:45:51.867+07:00","updated":"2025-07-21T16:54:14.913+07:00"}
 ---
 
 # Tips for New Players
@@ -19,5 +19,5 @@
 6. Don’t use auto for anything. Whether it’s [picking decks](https://docs.google.com/document/d/11X2P7pLuh-k9E7PhRiD20nDX22rNWtCpC1S4IMx_8pQ/edit?tab=t.0#heading=h.eojylwcplssq), picking parents, or [picking your PvP team](https://docs.google.com/document/d/11X2P7pLuh-k9E7PhRiD20nDX22rNWtCpC1S4IMx_8pQ/edit?tab=t.0#heading=h.rbnaasa6ngsy), the game’s pretty bad at it. Learn how to do them yourself as soon as you can.
 
 > [!info] Navigation
-<p><span><a data-tooltip-position="top" aria-label="00_RefDocs/00_News" data-href="00_RefDocs/00_News" href="00_RefDocs/00_News" class="internal-link" target="_blank" rel="noopener nofollow">Index</a><br>
+<p><span><a data-tooltip-position="top" aria-label="Umamusume Global Docs/00_RefDocs/00_News" data-href="Umamusume Global Docs/00_RefDocs/00_News" href="Umamusume Global Docs/00_RefDocs/00_News" class="internal-link" target="_blank" rel="noopener nofollow">Index</a><br>
 <a data-tooltip-position="top" aria-label="Umamusume Global Docs/00_RefDocs/03_Your First Month In Uma.md" data-href="Umamusume Global Docs/00_RefDocs/03_Your First Month In Uma.md" href="Umamusume Global Docs/00_RefDocs/03_Your First Month In Uma.md" class="internal-link" target="_blank" rel="noopener nofollow">&lt;&lt; Previous</a> | <a data-tooltip-position="top" aria-label="Umamusume Global Docs/00_RefDocs/05_Lessons from the Future.md" data-href="Umamusume Global Docs/00_RefDocs/05_Lessons from the Future.md" href="Umamusume Global Docs/00_RefDocs/05_Lessons from the Future.md" class="internal-link" target="_blank" rel="noopener nofollow">Next &gt;&gt;</a></span></p>

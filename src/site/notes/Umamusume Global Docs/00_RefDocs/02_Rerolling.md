@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"00_RefDocs/02_Rerolling.md","permalink":"/00-ref-docs/02-rerolling/","created":"2025-07-21T12:24:56.589+07:00","updated":"2025-07-21T16:47:46.196+07:00"}
+{"dg-publish":true,"dg-path":"00_RefDocs/02_Rerolling.md","permalink":"/00-ref-docs/02-rerolling/","created":"2025-07-21T12:24:56.589+07:00","updated":"2025-07-21T16:54:07.583+07:00"}
 ---
 
 # Rerolling
@@ -23,6 +23,6 @@ Later on, the game adds crystals you can use to limit break SSRs of your choice,
 If you don’t want to put in that much effort, you could aim for some cards that are good with few copies. Of the cards currently in the game, Super Creek, Tazuna, and Fine Motion are the good targets. I would try to start with at least one Super Creek, and if you get any more of those three cards, that’s a bonus. Super Creek remains usable basically forever, while Tazuna is good in the first three scenarios, and Fine Motion is a strong Wit card even without limit breaks.
 
 > [!info] Navigation
-<p><span><a data-tooltip-position="top" aria-label="00_RefDocs/00_News" data-href="00_RefDocs/00_News" href="00_RefDocs/00_News" class="internal-link" target="_blank" rel="noopener nofollow">Index</a><br>
+<p><span><a data-tooltip-position="top" aria-label="Umamusume Global Docs/00_RefDocs/00_News" data-href="Umamusume Global Docs/00_RefDocs/00_News" href="Umamusume Global Docs/00_RefDocs/00_News" class="internal-link" target="_blank" rel="noopener nofollow">Index</a><br>
 <a data-tooltip-position="top" aria-label="Umamusume Global Docs/00_RefDocs/01_Changelog and Current Plans.md" data-href="Umamusume Global Docs/00_RefDocs/01_Changelog and Current Plans.md" href="Umamusume Global Docs/00_RefDocs/01_Changelog and Current Plans.md" class="internal-link" target="_blank" rel="noopener nofollow">&lt;&lt; Previous</a> | <a data-tooltip-position="top" aria-label="Umamusume Global Docs/00_RefDocs/03_Your First Month In Uma.md" data-href="Umamusume Global Docs/00_RefDocs/03_Your First Month In Uma.md" href="Umamusume Global Docs/00_RefDocs/03_Your First Month In Uma.md" class="internal-link" target="_blank" rel="noopener nofollow">Next &gt;&gt;</a></span></p>
 
