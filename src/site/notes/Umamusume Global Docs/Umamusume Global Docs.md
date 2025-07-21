@@ -1,12 +1,22 @@
 ---
-{"dg-publish":true,"dg-path":"Umamusume Global Docs.md","permalink":"/umamusume-global-docs/","pinned":true,"tags":["gardenEntry"],"created":"2025-06-28T00:33:41.001+07:00","updated":"2025-07-21T02:48:30.547+07:00"}
+{"dg-publish":true,"dg-path":"Umamusume Global Docs.md","permalink":"/umamusume-global-docs/","pinned":true,"tags":["gardenEntry"],"created":"2025-06-28T00:33:41.001+07:00","updated":"2025-07-21T15:52:36.097+07:00"}
 ---
 
 
 - **00_RefDocs**
-	- [[Umamusume Global Docs/00_RefDocs/00_Should I Pull this Support Banner? (Kitasan Black)\|00_Should I Pull this Support Banner? (Kitasan Black)]]
-	- [[Umamusume Global Docs/00_RefDocs/01_Uma Musume Reviews\|01_Uma Musume Reviews]]
-	- [[Umamusume Global Docs/00_RefDocs/02_Uma Distances or Styles\|02_Uma Distances or Styles]]
+	- [[Umamusume Global Docs/00_RefDocs/00_News\|00_News]]
+	- [[Umamusume Global Docs/00_RefDocs/01_Changelog and Current Plans\|01_Changelog and Current Plans]]
+	- [[Umamusume Global Docs/00_RefDocs/02_Rerolling\|02_Rerolling]]
+	- [[Umamusume Global Docs/00_RefDocs/03_Your First Month In Uma\|03_Your First Month In Uma]]
+	- [[Umamusume Global Docs/00_RefDocs/04_Tips for New Players\|04_Tips for New Players]]
+	- [[Umamusume Global Docs/00_RefDocs/05_Lessons from the Future\|05_Lessons from the Future]]
+	- [[Umamusume Global Docs/00_RefDocs/06_Gacha\|06_Gacha]]
+	- [[Umamusume Global Docs/00_RefDocs/07_Common Terms JP Players Use\|07_Common Terms JP Players Use]]
+	- [[Umamusume Global Docs/00_RefDocs/08_Frequently Asked Questions\|08_Frequently Asked Questions]]
+	- [[Umamusume Global Docs/00_RefDocs/09_Training Umas\|09_Training Umas]]
+	- [[Umamusume Global Docs/00_RefDocs/10_Legacies\|10_Legacies]]
+	- [[Umamusume Global Docs/00_RefDocs/91_Uma Musume Reviews\|91_Uma Musume Reviews]]
+	- [[Umamusume Global Docs/00_RefDocs/92_Uma Distances or Styles\|92_Uma Distances or Styles]]
 - **Discord_EarlyFAQ**
 	- [[Umamusume Global Docs/Discord_EarlyFAQ/00_Quant's uma global week 1 training for dummies\|00_Quant's uma global week 1 training for dummies]]
 	- [[Umamusume Global Docs/Discord_EarlyFAQ/Common training questions FAQ (Valid for first month)\|Common training questions FAQ (Valid for first month)]]
@@ -30,9 +40,10 @@ This website is mostly mirror from [(Unofficial) Umamusume: Pretty Derby Discord
 > [Umamusume Skills Spreadsheet](https://docs.google.com/spreadsheets/u/0/d/1oB3eTvKqREtJDWJL0q80O_VjBcpOmRl5xE0z5fZKgFY/htmlview) 
 > [hrons' guide to umamusume](https://docs.google.com/document/d/1Zt6J-ktC9UFFPjD3ifc_-fmjzx1TAsXzlR9vVGCR5Jg)
 
+---
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/umamusume-global-docs/00-ref-docs/00-should-i-pull-this-support-banner-kitasan-black/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -65,7 +76,7 @@ It’s easy to say she’s the best Speed card for a long time, but why?
 # Current Uma Banner Reviews (pull if you like the uma, rather than if they’re good)
 
 ## Mejiro McQueen (Anime)
-[[Umamusume Global Docs/00_RefDocs/01_Uma Musume Reviews\|Ratings:]] Front 2, Pace 2, Team Trial 5 (Long Front/Pace), Parent 2
+[[Umamusume Global Docs/00_RefDocs/91_Uma Musume Reviews\|Ratings:]] Front 2, Pace 2, Team Trial 5 (Long Front/Pace), Parent 2
 
 Bird McQueen doesn’t really have anything going for her in CM, but at least she’s consistent in Team Trial and has a heal for Long. She’s outclassed even when her unique carries over and can’t compete in Long CMs against the meta Pace Chasers or Fronts until her buffs which come much later. Though, after those buffs, she is quite strong.
 
@@ -79,5 +90,29 @@ Red Teio is a little better than OG Oguri, but has nothing to make her exception
 Feel free to translate or share parts of the document or the entire thing, as long as you don’t do it commercially and you link to this document with a note, such as “Translated from…” or “From…” Consider it [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/). 
 
 If you’d like to support Erzzy, you can do so here: [https://ko-fi.com/erzzy](https://ko-fi.com/erzzy) Or, if you have extra TP and borrows, follow 876200788965 and use the uma/card to donate some FP / Club Points. Even if you instantly quit the run, they’ll be sent.
+
+---
+# Index
+<p><span><ul>
+<li dir="auto"><a data-tooltip-position="top" aria-label="Umamusume Global Docs/00_RefDocs/00_News.md" data-href="Umamusume Global Docs/00_RefDocs/00_News.md" href="Umamusume Global Docs/00_RefDocs/00_News.md" class="internal-link" target="_blank" rel="noopener nofollow">00_News</a></li>
+<li dir="auto"><a data-tooltip-position="top" aria-label="Umamusume Global Docs/00_RefDocs/01_Changelog and Current Plans.md" data-href="Umamusume Global Docs/00_RefDocs/01_Changelog and Current Plans.md" href="Umamusume Global Docs/00_RefDocs/01_Changelog and Current Plans.md" class="internal-link" target="_blank" rel="noopener nofollow">01_Changelog and Current Plans</a></li>
+<li dir="auto"><a data-tooltip-position="top" aria-label="Umamusume Global Docs/00_RefDocs/02_Rerolling.md" data-href="Umamusume Global Docs/00_RefDocs/02_Rerolling.md" href="Umamusume Global Docs/00_RefDocs/02_Rerolling.md" class="internal-link" target="_blank" rel="noopener nofollow">02_Rerolling</a></li>
+<li dir="auto"><a data-tooltip-position="top" aria-label="Umamusume Global Docs/00_RefDocs/03_Your First Month In Uma.md" data-href="Umamusume Global Docs/00_RefDocs/03_Your First Month In Uma.md" href="Umamusume Global Docs/00_RefDocs/03_Your First Month In Uma.md" class="internal-link" target="_blank" rel="noopener nofollow">03_Your First Month In Uma</a></li>
+<li dir="auto"><a data-tooltip-position="top" aria-label="Umamusume Global Docs/00_RefDocs/04_Tips for New Players.md" data-href="Umamusume Global Docs/00_RefDocs/04_Tips for New Players.md" href="Umamusume Global Docs/00_RefDocs/04_Tips for New Players.md" class="internal-link" target="_blank" rel="noopener nofollow">04_Tips for New Players</a></li>
+<li dir="auto"><a data-tooltip-position="top" aria-label="Umamusume Global Docs/00_RefDocs/05_Lessons from the Future.md" data-href="Umamusume Global Docs/00_RefDocs/05_Lessons from the Future.md" href="Umamusume Global Docs/00_RefDocs/05_Lessons from the Future.md" class="internal-link" target="_blank" rel="noopener nofollow">05_Lessons from the Future</a></li>
+<li dir="auto"><a data-tooltip-position="top" aria-label="Umamusume Global Docs/00_RefDocs/06_Gacha.md" data-href="Umamusume Global Docs/00_RefDocs/06_Gacha.md" href="Umamusume Global Docs/00_RefDocs/06_Gacha.md" class="internal-link" target="_blank" rel="noopener nofollow">06_Gacha</a></li>
+<li dir="auto"><a data-tooltip-position="top" aria-label="Umamusume Global Docs/00_RefDocs/07_Common Terms JP Players Use.md" data-href="Umamusume Global Docs/00_RefDocs/07_Common Terms JP Players Use.md" href="Umamusume Global Docs/00_RefDocs/07_Common Terms JP Players Use.md" class="internal-link" target="_blank" rel="noopener nofollow">07_Common Terms JP Players Use</a></li>
+<li dir="auto"><a data-tooltip-position="top" aria-label="Umamusume Global Docs/00_RefDocs/08_Frequently Asked Questions.md" data-href="Umamusume Global Docs/00_RefDocs/08_Frequently Asked Questions.md" href="Umamusume Global Docs/00_RefDocs/08_Frequently Asked Questions.md" class="internal-link" target="_blank" rel="noopener nofollow">08_Frequently Asked Questions</a></li>
+<li dir="auto"><a data-tooltip-position="top" aria-label="Umamusume Global Docs/00_RefDocs/09_Training Umas.md" data-href="Umamusume Global Docs/00_RefDocs/09_Training Umas.md" href="Umamusume Global Docs/00_RefDocs/09_Training Umas.md" class="internal-link" target="_blank" rel="noopener nofollow">09_Training Umas</a></li>
+<li dir="auto"><a data-tooltip-position="top" aria-label="Umamusume Global Docs/00_RefDocs/10_Legacies.md" data-href="Umamusume Global Docs/00_RefDocs/10_Legacies.md" href="Umamusume Global Docs/00_RefDocs/10_Legacies.md" class="internal-link" target="_blank" rel="noopener nofollow">10_Legacies</a></li>
+<li dir="auto"><a data-tooltip-position="top" aria-label="Umamusume Global Docs/00_RefDocs/91_Uma Musume Reviews.md" data-href="Umamusume Global Docs/00_RefDocs/91_Uma Musume Reviews.md" href="Umamusume Global Docs/00_RefDocs/91_Uma Musume Reviews.md" class="internal-link" target="_blank" rel="noopener nofollow">91_Uma Musume Reviews</a></li>
+<li dir="auto"><a data-tooltip-position="top" aria-label="Umamusume Global Docs/00_RefDocs/92_Uma Distances or Styles.md" data-href="Umamusume Global Docs/00_RefDocs/92_Uma Distances or Styles.md" href="Umamusume Global Docs/00_RefDocs/92_Uma Distances or Styles.md" class="internal-link" target="_blank" rel="noopener nofollow">92_Uma Distances or Styles</a></li>
+</ul></span></p>
+
+
+> [!info] Navigation
+<p><span><a data-tooltip-position="top" aria-label="00_News" data-href="00_News" href="00_News" class="internal-link" target="_blank" rel="noopener nofollow">Index</a><br>
+&lt;&lt; Previous | <a data-tooltip-position="top" aria-label="01_Changelog and Current Plans" data-href="01_Changelog and Current Plans" href="01_Changelog and Current Plans" class="internal-link" target="_blank" rel="noopener nofollow">Next &gt;&gt;</a></span></p>
+
 
 </div></div>

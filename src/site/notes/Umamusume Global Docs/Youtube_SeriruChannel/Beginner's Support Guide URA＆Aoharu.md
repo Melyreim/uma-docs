@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Youtube_SeriruChannel/Beginner's Support Guide URA＆Aoharu.md","permalink":"/youtube-seriru-channel/beginner-s-support-guide-ura-aoharu/","created":"2025-07-20T21:47:08.236+07:00","updated":"2025-07-21T04:47:00.810+07:00"}
+{"dg-publish":true,"dg-path":"Youtube_SeriruChannel/Beginner's Support Guide URA＆Aoharu.md","permalink":"/youtube-seriru-channel/beginner-s-support-guide-ura-aoharu/","created":"2025-07-20T21:47:08.236+07:00","updated":"2025-07-21T14:55:28.434+07:00"}
 ---
 
 # Beginner's Support Guide URA＆Aoharu
@@ -128,6 +128,8 @@ Otherwise B+
 ![](https://i.postimg.cc/2SVxmtKt/Beginner-s-Support-Guide-URA-Aohal-Umamusume-Pretty-Derby-edit-28-9h-Qh-YWu6nc-LHM-0051.jpg)
 ## Get Unique Recovery for Stamina
 ![](https://i.postimg.cc/pTtQfLLN/Beginner-s-Support-Guide-URA-Aohal-Umamusume-Pretty-Derby-edit-28-9h-Qh-YWu6nc-LHM-0052.jpg)
+Or just get it from other support cards (from this [video](https://www.youtube.com/watch?v=isnhYR24R9o))
+![](https://i.postimg.cc/rFZSVgTd/20250721-1753083743.png)
 ## When to Use Power Cards
 ![](https://i.postimg.cc/63LrYx88/Beginner-s-Support-Guide-URA-Aohal-Umamusume-Pretty-Derby-edit-28-9h-Qh-YWu6nc-LHM-0053.jpg)
 ![](https://i.postimg.cc/GtLkfgDq/Beginner-s-Support-Guide-URA-Aohal-Umamusume-Pretty-Derby-edit-28-9h-Qh-YWu6nc-LHM-0055.jpg)
