@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"00_RefDocs/07_Common Terms JP Players Use.md","permalink":"/00-ref-docs/07-common-terms-jp-players-use/","created":"2025-07-21T15:02:40.847+07:00","updated":"2025-07-21T15:06:50.022+07:00"}
+{"dg-publish":true,"dg-path":"00_RefDocs/07_Common Terms JP Players Use.md","permalink":"/00-ref-docs/07-common-terms-jp-players-use/","created":"2025-07-21T15:02:40.847+07:00","updated":"2025-07-21T16:48:19.230+07:00"}
 ---
 
 # Common Terms JP Players Use
@@ -30,5 +30,5 @@ If you read old guides or talk to players who played on the Japanese server, the
 | Fast Learner      | Sharp, [切れ者](https://jisho.org/word/%E5%88%87%E3%82%8C%E8%80%85)                                 |
 | Charming          | Charming, but also sometimes Adorable, [愛嬌](https://jisho.org/word/%E6%84%9B%E5%AC%8C)           |
 > [!info] Navigation
-<p><span><a data-tooltip-position="top" aria-label="00_News" data-href="00_News" href="00_News" class="internal-link" target="_blank" rel="noopener nofollow">Index</a><br>
-<a data-tooltip-position="top" aria-label="06_Gacha" data-href="06_Gacha" href="06_Gacha" class="internal-link" target="_blank" rel="noopener nofollow">&lt;&lt; Previous</a> | <a data-tooltip-position="top" aria-label="08_Frequently Asked Questions" data-href="08_Frequently Asked Questions" href="08_Frequently Asked Questions" class="internal-link" target="_blank" rel="noopener nofollow">Next &gt;&gt;</a></span></p>
+<p><span><a data-tooltip-position="top" aria-label="00_RefDocs/00_News" data-href="00_RefDocs/00_News" href="00_RefDocs/00_News" class="internal-link" target="_blank" rel="noopener nofollow">Index</a><br>
+<a data-tooltip-position="top" aria-label="Umamusume Global Docs/00_RefDocs/06_Gacha.md" data-href="Umamusume Global Docs/00_RefDocs/06_Gacha.md" href="Umamusume Global Docs/00_RefDocs/06_Gacha.md" class="internal-link" target="_blank" rel="noopener nofollow">&lt;&lt; Previous</a> | <a data-tooltip-position="top" aria-label="Umamusume Global Docs/00_RefDocs/08_Frequently Asked Questions.md" data-href="Umamusume Global Docs/00_RefDocs/08_Frequently Asked Questions.md" href="Umamusume Global Docs/00_RefDocs/08_Frequently Asked Questions.md" class="internal-link" target="_blank" rel="noopener nofollow">Next &gt;&gt;</a></span></p>

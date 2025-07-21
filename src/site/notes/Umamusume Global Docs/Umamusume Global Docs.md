@@ -112,8 +112,8 @@ If you’d like to support Erzzy, you can do so here: [https://ko-fi.com/erzzy](
 
 
 > [!info] Navigation
-<p><span><a data-tooltip-position="top" aria-label="00_News" data-href="00_News" href="00_News" class="internal-link" target="_blank" rel="noopener nofollow">Index</a><br>
-&lt;&lt; Previous | <a data-tooltip-position="top" aria-label="01_Changelog and Current Plans" data-href="01_Changelog and Current Plans" href="01_Changelog and Current Plans" class="internal-link" target="_blank" rel="noopener nofollow">Next &gt;&gt;</a></span></p>
+<p><span><a data-tooltip-position="top" aria-label="00_RefDocs/00_News" data-href="00_RefDocs/00_News" href="00_RefDocs/00_News" class="internal-link" target="_blank" rel="noopener nofollow">Index</a><br>
+&lt;&lt; Previous | <a data-tooltip-position="top" aria-label="Umamusume Global Docs/00_RefDocs/01_Changelog and Current Plans.md" data-href="Umamusume Global Docs/00_RefDocs/01_Changelog and Current Plans.md" href="Umamusume Global Docs/00_RefDocs/01_Changelog and Current Plans.md" class="internal-link" target="_blank" rel="noopener nofollow">Next &gt;&gt;</a></span></p>
 
 
 </div></div>

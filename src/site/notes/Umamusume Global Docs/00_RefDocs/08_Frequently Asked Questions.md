@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"00_RefDocs/08_Frequently Asked Questions.md","permalink":"/00-ref-docs/08-frequently-asked-questions/","created":"2025-07-21T15:06:51.967+07:00","updated":"2025-07-21T15:59:49.743+07:00"}
+{"dg-publish":true,"dg-path":"00_RefDocs/08_Frequently Asked Questions.md","permalink":"/00-ref-docs/08-frequently-asked-questions/","created":"2025-07-21T15:06:51.967+07:00","updated":"2025-07-21T16:48:24.654+07:00"}
 ---
 
 # Frequently Asked Questions
@@ -68,5 +68,5 @@ Don’t worry about it. Just think of them as representations of your Speed, Sta
 I’ll reroll for Kitasan and then aim to win every race with Dober for the title. No current plans to participate in any discords.
 
 > [!info] Navigation
-<p><span><a data-tooltip-position="top" aria-label="00_News" data-href="00_News" href="00_News" class="internal-link" target="_blank" rel="noopener nofollow">Index</a><br>
-<a data-tooltip-position="top" aria-label="07_Common Terms JP Players Use" data-href="07_Common Terms JP Players Use" href="07_Common Terms JP Players Use" class="internal-link" target="_blank" rel="noopener nofollow">&lt;&lt; Previous</a> | <a data-tooltip-position="top" aria-label="09_Training Umas" data-href="09_Training Umas" href="09_Training Umas" class="internal-link" target="_blank" rel="noopener nofollow">Next &gt;&gt;</a></span></p>
+<p><span><a data-tooltip-position="top" aria-label="00_RefDocs/00_News" data-href="00_RefDocs/00_News" href="00_RefDocs/00_News" class="internal-link" target="_blank" rel="noopener nofollow">Index</a><br>
+<a data-tooltip-position="top" aria-label="Umamusume Global Docs/00_RefDocs/07_Common Terms JP Players Use.md" data-href="Umamusume Global Docs/00_RefDocs/07_Common Terms JP Players Use.md" href="Umamusume Global Docs/00_RefDocs/07_Common Terms JP Players Use.md" class="internal-link" target="_blank" rel="noopener nofollow">&lt;&lt; Previous</a> | <a data-tooltip-position="top" aria-label="Umamusume Global Docs/00_RefDocs/09_Training Umas.md" data-href="Umamusume Global Docs/00_RefDocs/09_Training Umas.md" href="Umamusume Global Docs/00_RefDocs/09_Training Umas.md" class="internal-link" target="_blank" rel="noopener nofollow">Next &gt;&gt;</a></span></p>

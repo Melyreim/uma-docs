@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"00_RefDocs/10_Legacies.md","permalink":"/00-ref-docs/10-legacies/","created":"2025-07-21T15:46:03.657+07:00","updated":"2025-07-21T16:04:14.129+07:00"}
+{"dg-publish":true,"dg-path":"00_RefDocs/10_Legacies.md","permalink":"/00-ref-docs/10-legacies/","created":"2025-07-21T15:46:03.657+07:00","updated":"2025-07-21T16:48:35.662+07:00"}
 ---
 
 # Legacies
@@ -91,5 +91,5 @@ If both parents did the race, there’s another bonus. So, if the other parent w
 However, later on this gets changed to be +3 per matching G1, with G2s and G3s no longer counting. This applies retroactively, so your parents’ affinities might change after that update. As such, just focus on the G1s when making your parents in this way. They [give good stats](https://docs.google.com/document/d/11X2P7pLuh-k9E7PhRiD20nDX22rNWtCpC1S4IMx_8pQ/edit?tab=t.0#heading=h.qxk7q4hqrejf) anyway, you should be doing them with some frequency even on normal runs.
 
 > [!info] Navigation
-<p><span><a data-tooltip-position="top" aria-label="00_News" data-href="00_News" href="00_News" class="internal-link" target="_blank" rel="noopener nofollow">Index</a><br>
-<a data-tooltip-position="top" aria-label="09_Training Umas" data-href="09_Training Umas" href="09_Training Umas" class="internal-link" target="_blank" rel="noopener nofollow">&lt;&lt; Previous</a> | <a data-tooltip-position="top" aria-label="91_Uma Musume Reviews" data-href="91_Uma Musume Reviews" href="91_Uma Musume Reviews" class="internal-link" target="_blank" rel="noopener nofollow">Next &gt;&gt;</a></span></p>
+<p><span><a data-tooltip-position="top" aria-label="00_RefDocs/00_News" data-href="00_RefDocs/00_News" href="00_RefDocs/00_News" class="internal-link" target="_blank" rel="noopener nofollow">Index</a><br>
+<a data-tooltip-position="top" aria-label="Umamusume Global Docs/00_RefDocs/09_Training Umas.md" data-href="Umamusume Global Docs/00_RefDocs/09_Training Umas.md" href="Umamusume Global Docs/00_RefDocs/09_Training Umas.md" class="internal-link" target="_blank" rel="noopener nofollow">&lt;&lt; Previous</a> | <a data-tooltip-position="top" aria-label="Umamusume Global Docs/00_RefDocs/91_Uma Musume Reviews.md" data-href="Umamusume Global Docs/00_RefDocs/91_Uma Musume Reviews.md" href="Umamusume Global Docs/00_RefDocs/91_Uma Musume Reviews.md" class="internal-link" target="_blank" rel="noopener nofollow">Next &gt;&gt;</a></span></p>
