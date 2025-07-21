@@ -1,52 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"Umamusume Global Docs.md","permalink":"/umamusume-global-docs/","pinned":true,"tags":["gardenEntry"],"created":"2025-06-28T00:33:41.001+07:00","updated":"2025-07-21T15:52:36.097+07:00"}
+{"dg-publish":true,"dg-path":"00_RefDocs/00_News.md","permalink":"/00-ref-docs/00-news/","created":"2025-07-21T14:28:26.345+07:00","updated":"2025-07-21T16:04:08.668+07:00"}
 ---
-
-
-- **00_RefDocs**
-	- [[Umamusume Global Docs/00_RefDocs/00_News\|00_News]]
-	- [[Umamusume Global Docs/00_RefDocs/01_Changelog and Current Plans\|01_Changelog and Current Plans]]
-	- [[Umamusume Global Docs/00_RefDocs/02_Rerolling\|02_Rerolling]]
-	- [[Umamusume Global Docs/00_RefDocs/03_Your First Month In Uma\|03_Your First Month In Uma]]
-	- [[Umamusume Global Docs/00_RefDocs/04_Tips for New Players\|04_Tips for New Players]]
-	- [[Umamusume Global Docs/00_RefDocs/05_Lessons from the Future\|05_Lessons from the Future]]
-	- [[Umamusume Global Docs/00_RefDocs/06_Gacha\|06_Gacha]]
-	- [[Umamusume Global Docs/00_RefDocs/07_Common Terms JP Players Use\|07_Common Terms JP Players Use]]
-	- [[Umamusume Global Docs/00_RefDocs/08_Frequently Asked Questions\|08_Frequently Asked Questions]]
-	- [[Umamusume Global Docs/00_RefDocs/09_Training Umas\|09_Training Umas]]
-	- [[Umamusume Global Docs/00_RefDocs/10_Legacies\|10_Legacies]]
-	- [[Umamusume Global Docs/00_RefDocs/91_Uma Musume Reviews\|91_Uma Musume Reviews]]
-	- [[Umamusume Global Docs/00_RefDocs/92_Uma Distances or Styles\|92_Uma Distances or Styles]]
-- **Discord_EarlyFAQ**
-	- [[Umamusume Global Docs/Discord_EarlyFAQ/00_Quant's uma global week 1 training for dummies\|00_Quant's uma global week 1 training for dummies]]
-	- [[Umamusume Global Docs/Discord_EarlyFAQ/Common training questions FAQ (Valid for first month)\|Common training questions FAQ (Valid for first month)]]
-	- [[Umamusume Global Docs/Discord_EarlyFAQ/Frequently asked day 1 questions\|Frequently asked day 1 questions]]
-	- [[Umamusume Global Docs/Discord_EarlyFAQ/Intermediate training tips or ideas to get you started\|Intermediate training tips or ideas to get you started]]
-	- [[Umamusume Global Docs/Discord_EarlyFAQ/Quant's week 1 skills guide for uma\|Quant's week 1 skills guide for uma]]
-- **Discord_TrainingReq**
-	- [[Umamusume Global Docs/Discord_TrainingReq/Estimated threshold for stamina requirement\|Estimated threshold for stamina requirement]]
-	- [[Umamusume Global Docs/Discord_TrainingReq/Statline target when doing training\|Statline target when doing training]]
-- **Youtube_SeriruChannel**
-	- [[Umamusume Global Docs/Youtube_SeriruChannel/Beginner's Support Guide URA＆Aoharu\|Beginner's Support Guide URA＆Aoharu]]
-
-
-
-This website is mostly mirror from [(Unofficial) Umamusume: Pretty Derby Discord](https://discord.gg/umamusume) and [reference docs](https://docs.google.com/document/d/11X2P7pLuh-k9E7PhRiD20nDX22rNWtCpC1S4IMx_8pQ)
-
-> [!TIP] Useful Links
-> [GameTora Training Event Helper](https://gametora.com/umamusume/training-event-helper)
-> [Umamusume Friend DB](https://uma-global.pure-db.com/#/search)
-> [Umamusume Support Cards Tier List](https://euophrys.github.io/uma-tiers/#/global)
-> [Umamusume Skills Spreadsheet](https://docs.google.com/spreadsheets/u/0/d/1oB3eTvKqREtJDWJL0q80O_VjBcpOmRl5xE0z5fZKgFY/htmlview) 
-> [hrons' guide to umamusume](https://docs.google.com/document/d/1Zt6J-ktC9UFFPjD3ifc_-fmjzx1TAsXzlR9vVGCR5Jg)
-
----
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/00-ref-docs/00-news/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
 
 # Should I Pull this Support Banner? (Kitasan Black)
 
@@ -114,6 +68,3 @@ If you’d like to support Erzzy, you can do so here: [https://ko-fi.com/erzzy](
 > [!info] Navigation
 <p><span><a data-tooltip-position="top" aria-label="00_News" data-href="00_News" href="00_News" class="internal-link" target="_blank" rel="noopener nofollow">Index</a><br>
 &lt;&lt; Previous | <a data-tooltip-position="top" aria-label="01_Changelog and Current Plans" data-href="01_Changelog and Current Plans" href="01_Changelog and Current Plans" class="internal-link" target="_blank" rel="noopener nofollow">Next &gt;&gt;</a></span></p>
-
-
-</div></div>
