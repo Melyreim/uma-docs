@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"00_RefDocs/05_Lessons from the Future.md","permalink":"/00-ref-docs/05-lessons-from-the-future/","created":"2025-07-21T13:50:45.756+07:00","updated":"2025-07-21T16:54:22.704+07:00"}
+{"dg-publish":true,"dg-path":"00_RefDocs/05_Lessons from the Future.md","permalink":"/00-ref-docs/05-lessons-from-the-future/","created":"2025-07-21T13:50:45.756+07:00","updated":"2025-07-27T11:59:28.605+07:00"}
 ---
 
-# Lessons from the Future
+1# Lessons from the Future
 
 As we’ve played the Japanese server for many years, we can look back and think about what we would have done
 
@@ -81,7 +81,7 @@ Mejiro McQueen - Often a decent parent for frontlines (Front/Pace)
 Maruzensky - Frequent parent for certain tracks, for various styles depending on the track
 Special Week - Often a decent parent for Pace/Late umas
 Narita Brian - Surprisingly frequently used parent for non-Front umas
-Seiun Sky - Forever useful and meta Front Runner parent
+Seiun Sky - **Forever useful** and meta Front Runner parent
 Fuji Kiseki - After her buff, a good frontline parent. Don’t pull immediately (unless you like her)
 
 - ***Aoharu***

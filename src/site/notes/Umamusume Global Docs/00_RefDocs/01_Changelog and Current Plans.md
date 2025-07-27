@@ -1,8 +1,28 @@
 ---
-{"dg-publish":true,"dg-path":"00_RefDocs/01_Changelog and Current Plans.md","permalink":"/00-ref-docs/01-changelog-and-current-plans/","created":"2025-07-21T12:22:43.330+07:00","updated":"2025-07-21T16:54:03.585+07:00"}
+{"dg-publish":true,"dg-path":"00_RefDocs/01_Changelog and Current Plans.md","permalink":"/00-ref-docs/01-changelog-and-current-plans/","created":"2025-07-21T12:22:43.330+07:00","updated":"2025-07-27T11:57:08.949+07:00"}
 ---
 
 # Changelog
+
+07/26/2025
+
+Erzzy
+
+- [Stat Importance](https://docs.google.com/document/d/11X2P7pLuh-k9E7PhRiD20nDX22rNWtCpC1S4IMx_8pQ/edit?tab=t.0#heading=h.6gliz7nohxe) chart
+
+07/23/2025
+
+Erzzy
+
+- Wrote a script to calculate the [required stamina](https://docs.google.com/document/d/11X2P7pLuh-k9E7PhRiD20nDX22rNWtCpC1S4IMx_8pQ/edit?tab=t.0#heading=h.5gejlihfmr29) and updated the chart with global values
+- Made a Nice Nature, put it as a visual reference in [Debuffers](https://docs.google.com/document/d/11X2P7pLuh-k9E7PhRiD20nDX22rNWtCpC1S4IMx_8pQ/edit?tab=t.0#heading=h.2zda6gvxglny)
+
+07/21/2025:
+
+Kirei
+
+- Updated [What umas are worth leveling?](https://docs.google.com/document/d/11X2P7pLuh-k9E7PhRiD20nDX22rNWtCpC1S4IMx_8pQ/edit?tab=t.0#heading=h.mf5377rc9y0b) To better reflect, costume variants of an uma rather than simply stating ‘X Uma 3*’ sorry for the confusion. ^^;
+- Fixed/updated a small chunk of text errors/old translations with the help of Grey! Ty for pointing them out. <3
 
 07/18/2025:
 

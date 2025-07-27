@@ -189,4 +189,4 @@ Preferred Style: Late Surger
 
 > [!info] Navigation
 <p><span><a data-tooltip-position="top" aria-label="Umamusume Global Docs/00_RefDocs/00_News" data-href="Umamusume Global Docs/00_RefDocs/00_News" href="Umamusume Global Docs/00_RefDocs/00_News" class="internal-link" target="_blank" rel="noopener nofollow">Index</a><br>
-<a data-tooltip-position="top" aria-label="Umamusume Global Docs/00_RefDocs/91_Uma Musume Reviews.md" data-href="Umamusume Global Docs/00_RefDocs/91_Uma Musume Reviews.md" href="Umamusume Global Docs/00_RefDocs/91_Uma Musume Reviews.md" class="internal-link" target="_blank" rel="noopener nofollow">&lt;&lt; Previous</a> | Next &gt;&gt;</span></p>
+<a data-tooltip-position="top" aria-label="Umamusume Global Docs/00_RefDocs/19_Micro-optimizations.md" data-href="Umamusume Global Docs/00_RefDocs/19_Micro-optimizations.md" href="Umamusume Global Docs/00_RefDocs/19_Micro-optimizations.md" class="internal-link" target="_blank" rel="noopener nofollow">&lt;&lt; Previous</a> | Next &gt;&gt;</span></p>
